@@ -89,4 +89,4 @@ class CreateFooter {
 }
 
 
-module.exports = CreateFooter
+module.exports = new CreateFooter()
