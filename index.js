@@ -23,7 +23,7 @@ class CreateFooter {
     }
 }
 
-// const a = new CreateFooter()
-// a.getFooter([{key: 'FB', value: 'Urip Subekti'}, {key: 'PHONE', value: '087722171686'}]).then(console.log)
+const a = new CreateFooter()
+a.getFooter([{key: 'IG', value: 'Urip Subekti'}, {key: 'PHONE', value: '087722171686'}]).then(console.log)
 
-module.exports = new CreateFooter()
+// module.exports = new CreateFooter()
